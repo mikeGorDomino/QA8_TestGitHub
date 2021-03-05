@@ -1,8 +1,10 @@
 
 
 public class Main {
-    // i change this file for GitHub
-    System.out.println("qwerttIOP");
+
+    public static void main(String[] args) {
+        System.out.println("Hello world Java");
+    }
 
 
 }
